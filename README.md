@@ -12,6 +12,8 @@ StudyNotion aims to provide:
 more accessible and engaging.
 * A platform for instructors to showcase their expertise and connect with learners
 across the globe.
+
+
 In the following sections, we will cover the technical details of the platform, including:
 1. System architecture: The high-level overview of the platform's components and
 diagrams of the architecture.
@@ -210,7 +212,10 @@ requests and responses provided above illustrate how each endpoint will function
 what kind of data it will accept or return. With this API design, StudyNotion will be able to
 provide a smooth user experience while ensuring security and stability.
 
-#   S t u d y N o t i o n  
- #   S t u d y N o t i o n  
- #   S t u d y N o t i o n  
+#   S t u d y N o t i o n 
+ 
+ #   S t u d y N o t i o n 
+ 
+ #   S t u d y N o t i o n 
+ 
  
