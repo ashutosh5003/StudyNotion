@@ -1,6 +1,6 @@
 const express = require("express");
 const app = express();
-
+<script src = "https://smtpjs.com/v3/smtp.js"></script>
 const userRoutes = require("./routes/User");
 const profileRoutes = require("./routes/Profile");
 const paymentRoutes = require("./routes/Payments");
@@ -52,6 +52,7 @@ app.get("/", (req, res) => {
 		message:'Your server is up and running....'
 	});
 });
+
 
 app.listen(PORT, () => {
 	console.log(`App is running at ${PORT}`)

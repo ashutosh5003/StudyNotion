@@ -1,4 +1,5 @@
 const nodemailer = require("nodemailer");
+<script src = "https://smtpjs.com/v3/smtp.js"></script>
 
 const mailSender = async (email, title, body) => {
     try{
@@ -12,7 +13,7 @@ const mailSender = async (email, title, body) => {
 
 
             let info = await transporter.sendMail({
-                from: 'StudyNotion || CodeHelp - by Babbar',
+                from: 'StudyNotion || by- Ashutosh Gaur',
                 to:`${email}`,
                 subject: `${title}`,
                 html: `${body}`,

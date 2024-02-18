@@ -1,8 +1,8 @@
 {
   "name": "server",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
+  "homepage": "./",
   "scripts": {
     "start": "node index.js",
     "dev": "nodemon index.js"
@@ -27,5 +27,6 @@
     "nodemon": "^2.0.22",
     "otp-generator": "^4.0.1",
     "razorpay": "^2.8.6"
-  }
+  },
+  "description": ""
 }
