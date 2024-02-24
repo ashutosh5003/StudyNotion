@@ -76,6 +76,7 @@ platform:
 The front end of StudyNotion has all the necessary pages that an ed-tech platform should
 have. Some of these pages are:
 
+
 ### For Students:
 * Homepage: This page will have a brief introduction to the platform, as well as links
 to the course list and user details.
